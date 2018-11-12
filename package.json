@@ -7,7 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["chatbot", "nodejs", "telegram", "todo"],
+  "keywords": [
+    "chatbot",
+    "nodejs",
+    "telegram",
+    "todo"
+  ],
   "author": {
     "name": "Ferdinand Mütsch",
     "url": "https://ferdinand-muetsch.de"
